@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "EGGO.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
